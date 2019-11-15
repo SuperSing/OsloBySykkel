@@ -1,0 +1,7 @@
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\bin\Debug\OsloBysykkel.exe.config
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\bin\Debug\OsloBysykkel.exe
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\bin\Debug\OsloBysykkel.pdb
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\obj\Debug\OsloBysykkel.csprojResolveAssemblyReference.cache
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\obj\Debug\OsloBysykkel.csproj.CoreCompileInputs.cache
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\obj\Debug\OsloBysykkel.exe
+c:\users\slk0amsi\source\repos\OsloBysykkel\OsloBysykkel\obj\Debug\OsloBysykkel.pdb
